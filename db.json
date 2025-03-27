@@ -1,9 +1,44 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+  "watches": [
+    {
+      "id": 1,
+      "brand": "Rolex",
+      "model": "Submariner",
+      "movement": "Automatic",
+      "price": 15000,
+      "image": "/watches-imgs/submariner.png"
+    },
+    {
+      "id": 2,
+      "brand": "Patek Philippe",
+      "model": "Nautilus",
+      "movement": "Automatic",
+      "price": 120000,
+      "image": "/watches-imgs/patek.png"
+    },
+    {
+      "id": 3,
+      "brand": "Seiko",
+      "model": "Prospex",
+      "movement": "Automatic",
+      "price": 800,
+      "image": "/watches-imgs/seiko.png"
+    },
+    {
+      "id": 4,
+      "brand": "Audemars Piguet",
+      "model": "Royal Oak",
+      "movement": "Automatic",
+      "price": 35000,
+      "image": "/watches-imgs/ap.png"
+    },
+    {
+      "id": 5,
+      "brand": "Vacheron Constantin",
+      "model": "Overseas",
+      "movement": "Automatic",
+      "price": 22000,
+      "image": "/watches-imgs/vacheron.jpeg"
+    }
+  ]
 }
