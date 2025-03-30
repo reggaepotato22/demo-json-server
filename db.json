@@ -6,7 +6,8 @@
       "model": "Submariner",
       "movement": "Automatic",
       "price": 15000,
-      "image": "/watches-imgs/submariner.png"
+      "image": "/watches-imgs/submariner.png",
+      "popularity": 100
     },
     {
       "id": 2,
@@ -14,7 +15,8 @@
       "model": "Nautilus",
       "movement": "Automatic",
       "price": 120000,
-      "image": "/watches-imgs/patek.png"
+      "image": "/watches-imgs/patek.png",
+      "popularity": 90
     },
     {
       "id": 3,
@@ -22,7 +24,8 @@
       "model": "Prospex",
       "movement": "Automatic",
       "price": 800,
-      "image": "/watches-imgs/seiko.png"
+      "image": "/watches-imgs/seiko.png",
+      "popularity": 20
     },
     {
       "id": 4,
@@ -30,7 +33,8 @@
       "model": "Royal Oak",
       "movement": "Automatic",
       "price": 35000,
-      "image": "/watches-imgs/ap.png"
+      "image": "/watches-imgs/ap.png",
+      "popularity": 80
     },
     {
       "id": 5,
@@ -38,7 +42,26 @@
       "model": "Overseas",
       "movement": "Automatic",
       "price": 22000,
-      "image": "/watches-imgs/vacheron.jpeg"
+      "image": "/watches-imgs/vacheron.jpeg",
+      "popularity": 70
+    },
+    {
+      "id": 6,
+      "brand": "Rolex",
+      "model": "Daytona",
+      "movement": "Automatic",
+      "price": 20000,
+      "image": "/watches-imgs/daytona.png",
+      "popularity": 95
+    },
+     {
+      "id": 7,
+      "brand": "Seiko",
+      "model": "Astron",
+      "movement": "Quartz",
+      "price": 1200,
+      "image": "/watches-imgs/astron.png",
+      "popularity": 40
     }
   ]
 }
